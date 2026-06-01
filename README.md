@@ -10,7 +10,10 @@ design reasoning, a line-by-line code reading, the findings it produced, and a s
 
 ## Watch the run
 
-*The recording is sped up 4× — the actual run took about 25 minutes.*
+A **4×-speed** recording (~4:48 — the actual run took about 25 minutes) is included in this repo as
+[`claude_code_workflow_mistral_vibe_web_4x.mp4`](./claude_code_workflow_mistral_vibe_web_4x.mp4).
+
+The player embedded below is the full-length capture at normal speed:
 
 https://github.com/user-attachments/assets/d1ef7fea-9c9b-4d7b-b0e7-ab47a49583a4
 
