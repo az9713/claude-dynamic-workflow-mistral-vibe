@@ -10,6 +10,8 @@ design reasoning, a line-by-line code reading, the findings it produced, and a s
 
 ## Watch the run
 
+*The recording is sped up 4× — the actual run took about 25 minutes.*
+
 https://github.com/user-attachments/assets/d1ef7fea-9c9b-4d7b-b0e7-ab47a49583a4
 
 ## What a "type-escape sweep" is
@@ -94,7 +96,7 @@ while heavier buckets are still being catalogued.
 | [`type-escape-sweep-script-explained.md`](./type-escape-sweep-script-explained.md) | That script, dissected line by line, with 13 transferable learnings. |
 | [`type-escape-sweep-workflow-writeup.md`](./type-escape-sweep-workflow-writeup.md) | The design decisions: why 3 phases, why 9+9+1 agents, why a pipeline. |
 | [`type-escape-sweep-report.md`](./type-escape-sweep-report.md) | The findings: all 353 escapes, tiered and clustered, with proposed re-types. |
-| `claude_code_workflow_mistral_vibe_web.mp4` | Screen recording of the run (30 MB, 720p, no audio). |
+| `claude_code_workflow_mistral_vibe_web_4x.mp4` | Screen recording of the run, **sped up 4×** (6.5 MB, 720p, no audio; ~4:48 — the run itself was ~25 min). |
 
 ## Suggested reading order
 
@@ -104,5 +106,5 @@ while heavier buckets are still being catalogued.
 4. **`type-escape-sweep-workflow-writeup.md`** — the reasoning behind every structural choice.
 5. **`type-escape-sweep-report.md`** — what it found.
 
-> **Note:** the screen recording here is the compressed `_web.mp4` (30 MB, 720p, no audio). The original
-> 1.5 GB capture is not tracked — it exceeds GitHub's 100 MiB limit.
+> **Note:** the screen recording here is compressed **and sped up 4×** (`_web_4x.mp4`, 6.5 MB, 720p, no
+> audio). The original full-length 1.5 GB capture is not tracked — it exceeds GitHub's 100 MiB limit.
